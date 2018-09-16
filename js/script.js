@@ -1,3 +1,7 @@
+/*
+* Project courtesy of CodeCademy
+*/
+
 let openDoor1;
 let openDoor2;
 let openDoor3;
